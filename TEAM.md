@@ -1,6 +1,6 @@
 # Team Information
 
-**Course:** _[fill your course code and name]_
+**Course:** _[24304] Artificial Intelligence_
 
 **Semester:** Semester 2, 2020
 
@@ -10,9 +10,8 @@
 
 **Team members:**
 
-* Student 1's Student number - Full Name - Student email - Student Github id
-* Student 2's Student number - Full Name - Student email - Student Github id
-* Student 3's Student number - Full Name - Student email - Student Github id
+* U251684 - Oriol Benedito Garcia
+* U252029 - Alex Garcia Hernandez
 
 Replace the lines above with the correct details of members. Delete or add lines as needed.
 
