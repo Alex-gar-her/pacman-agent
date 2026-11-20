@@ -6,12 +6,12 @@
 
 **Instructor:** _[name of your instructor]_
 
-**Team name:** _[replace this with team name in plan text]_
+**Team name:** Rafita Warriors
 
 **Team members:**
 
-* U251684 - Oriol Benedito Garcia
-* U252029 - Alex Garcia Hernandez
+* 251684 - Oriol Benedito Garcia - oriol.benedito01@estudiant.upf.edu - OriolBega
+* 252029 - Alex Garcia Hernandez - alex.garcia11@estudiant.upf.edu - Alex-gar-her
 
 Replace the lines above with the correct details of members. Delete or add lines as needed.
 
